@@ -1,0 +1,15 @@
+h1 {
+  font-weight: normal;
+  color: skyblue;
+  background: green;
+  border-radius: 4px;
+  padding: 4px 0;
+  display: block;
+}
+
+p {
+  font-weight: normal;
+  opacity: 0.6;
+  text-align: center;
+}
+
